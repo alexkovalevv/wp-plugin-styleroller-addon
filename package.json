@@ -1,0 +1,77 @@
+{
+  "assemblies": {
+    "__global__": {
+      "delete": [
+        "/libs/onepress/compiler",
+        "compiler.ini",
+        "package.json",
+        "node_modules",
+        "Gruntfile.js"
+      ]
+    },
+    "build": {
+      "premium": {}
+    },
+    "lang": {
+      "en_US": {
+        "delete": [
+          "/lang",
+          "ru_RU"
+        ]
+      },
+      "ru_RU": {
+        "delete": ["en_US"]
+      }
+    }
+  },
+  "constants": {
+    "var": "styleroller",
+    "version": "2.0.0",
+    "api": "http://api.byonepress.com/1.1/",
+    "styleroller": [
+      {
+        "value": "StyleRoller Add-on"
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "Дополнение StyleRoller"
+      }
+    ],
+    "name": [
+      {
+        "value": "styleroller"
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "styleroller-rus"
+      }
+    ],
+    "purchaseUrl": [
+      {
+        "value": "http://sociallocker.org/styleroller"
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "http://sociallocker.ru/styleroller"
+      }
+    ],
+    "pluginUrl": [
+      {
+        "value": "http://sociallocker.org/styleroller?utm_source=plugin&utm_medium=plugin-uri&utm_campaign=plugin-uri"
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "http://sociallocker.ru?utm_source=plugin&utm_medium=plugin-uri&utm_campaign=plugin-uri"
+      }
+    ],
+    "description": [
+      {
+        "value": "Create your own locker themes in just a matter of seconds with StyleRoller, a new powerful add-on for Social Locker."
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "Создавайте свои собственные уникальные темы оформления с помощью StyleRoller, нового мощного дополнения для плагина Социальные Замок."
+      }
+    ]
+  }
+}

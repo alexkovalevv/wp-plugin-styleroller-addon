@@ -1,0 +1,62 @@
+/**
+* SL scheme profile select controls
+*/
+
+.factory-bootstrap-000 .profile-dropdown {
+    width:200px;
+    float:left;
+    margin-right:10px;
+}
+
+.onpSL-profile-edit-button, .onpSL-profile-add-button {
+    width:33px;
+    height:33px;
+    background-color: #fff !important;
+    border:1px solid #dbdbdb;
+    box-shadow: none;
+    border-radius:3px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    margin-right:5px;
+    outline:none;
+    
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAAAkCAYAAABmHbPbAAAEVklEQVR4Xu2ZS0gbURiFTdREIiqIbUVEBN+rlOK+BHEliqtslYIERRBBXeg6G0UDogsRt0PciO7cSHCvXUh9REspQZCKC1EIkxhNz00dGdNJc+OdzIP+gRBI7p175vzfnPuIo4Re5ICAAw6BvtSVHCghgAgCIQcIICH7qDMBRAwIOUAACdlHnQkgYkDIAQJIyD7qTAARA0IOEEBC9lFnYYAWFhZ+wcb3zMp0Op2cmZlxm2lrNBp90fP09JTs6uoyVU+2F0tLS7XwaQffuzweT//o6Oi1mX4dHx/XlpaW7jgcDpcsy/1er7cgPQSQgdVbXl6uTiaT+wDoIxsWRTuprKz0mQXRxcVFNR6yfUjJ6MHrBBD5CoGIADIIoFAo1OxyuWQAFEylUl+UYQHRN0DUYzREp6enzYBHxvhBJNArPU6ns6e1tZUriQggAwBi8Dw+PkbKyspCt7e3KzU1NetZEB1NTU15DZCSGYLBA3AiACUkSdKK3+9fV0OEJkcdHR1cegigIldNBU+4vLx8I5FIrLrd7iF1EqGYNwDoXZGlvIIHY4YfHh42AM4qkmhInUSYYm86Ozu59BBARaxaNjzxeDyC4RpRtN27u7s+lkRIpsGKiore8fHxr0WUogkPEjECcBoBzG44HO5jSYRUGoS+3ra2Ni493AA977b+ukcMXgcRTtUPmnPn9PT0Bz0Net5taV2yDl/m1YOI1lVPtpBc8KBdjC2ckUQDWBOF4Z1nbGzsh57eaF1LmbaU5FHBE0Ma+qBlADCzlPS0t7dz6ykEoLTITQIg7rF4xgFAQnoAkK561Jo54AmgWH4U6/PExESM535F2uSDBwkYwDSW0dPS0lKQHm4TkUBCBftfAOKFB9OEb3Jy8qcIGDx9c8EDYGJYA/kUeDCT+HBmVrAeboDm5+cTWoLZAZT6e3aYqNVO7wNGGKOpB3P4Kz3sMFFLTzEOGP8BzyUODX2YKkZY8pgND2p0iV0gm7ZGWPK8FR7mKzdAuWink+g/zqytrXkASBMO4th2XUKB/GzBjLcp8BwcHHiqqqqaAEcEbwkPuv95wawbPAQQzxzA2QbpM4wCNSABt7FA3kO3erPgYZLPz8+HkXYNgHkbn3vQVq9n8ii2UAJxApKvGf7jCqJQs1iIzikQsSRCv5SR05aiE5uMIICZxXtOgYglEabPlOi0pfaCAMpHBufvAGiTgcKaqyHCky8bteZRSz07O9tk0xagYX9yv0CENrLImifbDgKIE5B8zRYXFw/xZH9S2jGIAM4W1kKyEbutbH0A6BAAZfQoECEZt9j/X2/ZbeW6fwIoHxmcvyOBrlCcaxSNHcJ9R7Gi2HlJgUAgznkJXZsBoCtckB3qZvRAV/T+/l7q7u7WVY8wQLreNV3Mdg4QQLYrmbUEE0DWqoft1BBAtiuZtQQTQNaqh+3UEEC2K5m1BBNA1qqH7dQQQLYrmbUEE0DWqoft1BBAtiuZtQT/BtHQHVIxlJxAAAAAAElFTkSuQmCC);
+    background-repeat: no-repeat;
+}
+.onpSL-profile-add-button,
+.onpSL-profile-add-button[disabled=disabled]:hover, .onpSL-profile-add-button:disabled:hover {
+    background-position: -39px -3px;
+}
+.onpSL-profile-add-button:hover {    
+    background-position: -3px -3px;
+}
+.onpSL-profile-edit-button,
+.onpSL-profile-edit-button[disabled=disabled]:hover, .onpSL-profile-edit-button:disabled:hover{
+    background-position: -111px -3px;
+}
+.onpSL-profile-edit-button:hover {
+    background-position: -75px -3px;
+}
+.onpSL-profile-add-button[disabled], .onpSL-profile-add-button:disabled,
+.onpSL-profile-edit-button[disabled], .onpSL-profile-edit-button:disabled {    
+    background-color: #f6f6f6 !important;
+}
+.onpSL-profile-frame {
+    position:fixed;
+    top:0; left:0;
+    height: 100%;
+    width: 100%;   
+    z-index: 99999;  
+}
+.onpSL-editor-loader{
+    background:#f6f6f6 url(../img/spinner.gif) center no-repeat;   
+    position: fixed;
+    overflow: visible;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    min-width: 0; 
+    z-index: 500000;
+}

@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: StyleRoller Add-on\n"
+"POT-Creation-Date: 2014-08-24 18:34+0400\n"
+"PO-Revision-Date: 2014-08-24 18:37+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: E:\\cloud\\Dropbox\\OnePress\\Products\\Topic\\Plugin "
+"- Social Locker for Wordpress\\wp-content\\plugins\\styleroller-addon\n"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/actions.php:164
+msgid "Abstract Patterns"
+msgstr "Абстрактные"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/actions.php:165
+msgid "Paper & Fabric Patterns"
+msgstr "Бумага и ткань"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/actions.php:166
+msgid "Woods Patterns"
+msgstr "Древесные"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/actions.php:167
+msgid "Retro Patterns"
+msgstr "Ретро"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/activation.php:21
+msgid ""
+"Please, activate the plugin to get started. Enter a key \n"
+"                                you received with the plugin into the form "
+"below."
+msgstr ""
+"Чтобы приступить к работе, пожалуйста, введите ваш лицензионный ключ, "
+"который вы получили при покупки, в поле ниже."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/activation.php:44
+msgid "Default"
+msgstr "По умолчанию"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/init.php:95
+msgid "StyleRoller Add-on"
+msgstr "Дополнение StyleRoller"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/init.php:111
+msgid ""
+"The StyleRoller Add-on is activated but the plugin Social Locker is not "
+"found. Please activate the Social Locker or deactivate the StyleRoller."
+msgstr ""
+"Для работы дополнения StyleRoller требуется плагин Социальный Замок. "
+"Пожалуйста, активируйте плагин Социальный Замок или деактивируйте дополнение "
+"StyleRoller."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/init.php:121
+#, php-format
+msgid ""
+"The StyleRoller Add-on requires Social Locker %s. Please update the plugin "
+"Social Locker."
+msgstr ""
+"Для работы дополнения StyleRoller требуется плагин Социальный Замок %s. "
+"Пожалуйста, обновите плагин Социальный замок."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:6
+msgid "StyleRoller Add-On"
+msgstr "Дополнение StyleRoller"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:8
+msgid ""
+"The StyleRoller adds a new option called \"Style\" for all the locker themes."
+msgstr ""
+"StyleRoller добавляет новую опцию под название \"Стиль\" для тем всех "
+"оформления."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:9
+msgid ""
+"Every theme has own set of styles. The \"style\" means a modified locker "
+"look based on one of the themes."
+msgstr ""
+"Каждая тема имеет свой набор стилей. \"Стиль\" - это вариант оформления, "
+"который берет за основу одну из базовых тем."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:13
+msgid "How to create a new style?"
+msgstr "Как создать новый стиль для Социального замка?"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:15
+msgid ""
+"Open to edit any of your lockers. At the right of the dropdown list \"Theme"
+"\", you will find another dropdown list which contains only one item with "
+"the name \"Default\"."
+msgstr ""
+"Откройте мастер настройки для любого Замка. Справа от списка \"Тема\" теперь "
+"находится новый выпадающий список с одним пунктом \"По умолчанию\"."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:18
+msgid "Click the Plus button to run the StyleRoller and create a new style."
+msgstr "Нажмите на кнопку \"Плюс\", чтобы создать новый стиль."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:19
+msgid ""
+"When you create a new style for one of the themes, the StyleRoller clones an "
+"initial look of a selected theme."
+msgstr ""
+"Когда вы создаете новый стиль, StyleRoller клонирует изначальный внешний вид "
+"выбранной темы оформления."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:25
+msgid ""
+"View the short video below to get overal undestanding how the StyleRoller "
+"works:"
+msgstr ""
+"Просмотрите видео ниже, чтобы получить общее представление о том как "
+"работает StyleRoller:"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:32
+msgid "How to edit an exising style?"
+msgstr "Как отредактировать существующий стиль?"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:34
+msgid ""
+"When you have created and saved a new style, you can edit it at any time. "
+"Click the Pencil button to make that."
+msgstr ""
+"После того как вы создали и сохранили новый стиль, вы можете вернуться к "
+"нему в любой момент, чтобы отредактировать. Просто нажмите на кнопку с "
+"\"Карандаш\", чтобы сделать это."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:35
+msgid ""
+"Note that you cannot edit the Default styles in order to prevent overwriting "
+"initial looks."
+msgstr ""
+"Обратите внимание, что вы не можете редактировать стили \"По умолчанию\", "
+"чтобы избежать потери исходных тем оформления."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:42
+msgid "Why does every theme have its own set of editable options?"
+msgstr "Почему каждая темы имеет свои набор параметров для редактирования?"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:44
+msgid ""
+"Yes, every of the themes has its own set of options. The first reason is "
+"that this way allows to simplify the process of editing styles and focus on "
+"the most important options of a given theme."
+msgstr ""
+"Первая причина, почему это сделано - это позволяет упростить редактирование "
+"тем и сфокусироваться на наиболее важных параметрах для данной темы."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:47
+msgid ""
+"The second reason is that we're going to release other themes in future. "
+"These themes will have non-standard look and feel. One of the future themes "
+"is the theme called \"Blurred\"."
+msgstr ""
+"Вторая причина - в будущем мы собираемся выпустить дополнительные темы. Эти "
+"темы будут иметь совершенно другую структуру, их нельзя будет подвести под "
+"единый способ настройки."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:48
+msgid "The one will overlap and blur the locked content."
+msgstr " "
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/help.php:51
+msgid ""
+"To keep editing easy and save an ability to add non-standard themes in the "
+"future, the StyleRoller offers different options to edit for each theme."
+msgstr ""
+"Чтобы сохранить простоту редактировать и возможность работать с "
+"нестандартными темами оформления, StyleRoller отображает различные настройки "
+"для каждой из тем."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:127
+#: Wordpress\wp-content\plugins\styleroller-addon/includes/style-manager.class.php:49
+msgid "New Style"
+msgstr "Новый стиль"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:136
+msgid "Sorry, editing the default styles is  not allowed."
+msgstr "К сожалению, редактирование стилей по умолчанию невозможно."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:173
+msgid "Select elemens to customize:"
+msgstr "Выберите элемент для настройки:"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:201
+msgid "Save"
+msgstr "Сохранить"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:202
+msgid "Close"
+msgstr "Закрыть"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:205
+msgid "Delete"
+msgstr "Удалить"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:233
+msgid "Sorry, it's not possible"
+msgstr "Извините, это невозможно."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:236
+msgid ""
+"You're trying delete the default style for one of themes. Sorry, it's not "
+"possible."
+msgstr ""
+"Вы пытаетесь удалить стиль по умолчанию для одной из тем. Извините, это "
+"нельзя сделать."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:250
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:268
+msgid "Deleting Style"
+msgstr "Удаление стиля"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:253
+msgid "Are you sure you want to delete this style?"
+msgstr "Вы уверены что хотите удалить этот стиль?"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:256
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:277
+msgid "Cancel"
+msgstr "Отмена"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:257
+msgid "Yes, I'm sure"
+msgstr "Да, я уверен"
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:271
+msgid ""
+"This style is used by one of lockers. Please select a style that will be "
+"used as a replacement for them."
+msgstr ""
+"Этот стиль используется одним из Социальных замков. Пожалуйста, выберите "
+"стиль, который будет использоваться как замена для стиля, который вы "
+"удаляете."
+
+#: E:\cloud\Dropbox\OnePress\Products\Topic\Plugin - Social Locker for
+#: Wordpress\wp-content\plugins\styleroller-addon/admin/pages/style-editor.php:278
+msgid "Ok, replace and delete"
+msgstr "Заменить и удалить"
+
+#, fuzzy
+#~ msgid "Delete Key"
+#~ msgstr "Удалить"
+
+#, fuzzy
+#~ msgid ""
+#~ "Please, activate the plugin to unlock its features. Enter the key you "
+#~ "received with the plugin into the form below. Don't know where the key "
+#~ "is? <a href=\"#\" id=\"open-faq\">Click here</a>."
+#~ msgstr ""
+#~ "Чтобы приступить к работе, пожалуйста, введите ваш лицензионный ключ, "
+#~ "который вы получили при покупки, в поле ниже."
+
+#, fuzzy
+#~ msgid ""
+#~ "Please, activate the plugin to unlock its features. Enter the key you "
+#~ "received with the plugin into the form below."
+#~ msgstr ""
+#~ "Чтобы приступить к работе, пожалуйста, введите ваш лицензионный ключ, "
+#~ "который вы получили при покупки, в поле ниже."
+
+#~ msgid "OnePress Zero License"
+#~ msgstr "OnePress Zero License"

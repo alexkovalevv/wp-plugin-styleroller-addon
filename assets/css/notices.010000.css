@@ -1,0 +1,39 @@
+#styleroller-activate-premium-key {  
+    background: #393939 url("../img/styleroller-logo.png") 15px center no-repeat;
+    color: #ddd;
+    border: 1px solid #292929;
+    border-bottom: 3px solid #292929;
+    border-radius: 4px;
+    padding: 8px;
+    padding-left: 50px;
+    line-height: 140%;
+}
+#styleroller-activate-premium-key .factory-message-container a {
+    color: #fff;
+}
+#styleroller-activate-premium-key .factory-button {
+    background-color: #94ba29;
+    border-color: #59740d;
+    color: #fff;
+}
+#styleroller-activate-premium-key .factory-button:hover {
+    color: #fff !important;
+    background-color: #94ba29;
+    border-color: #59740d;
+    -webkit-transition-duration: .3s;
+    outline: none;
+    -moz-box-shadow: inset 0 0 2px #fff, 0 1px 7px rgba(148,186,41,0.5);
+    -webkit-box-shadow: inset 0 0 2px #fff, 0 1px 7px rgba(148,186,41,0.5);
+    box-shadow: inset 0 0 2px #fff, 0 1px 7spx rgba(148,186,41,0.5);
+}
+#styleroller-activate-premium-key .highlighted {
+    background-color: rgba(255,255,255,0.1);
+}
+#styleroller-activate-premium-key .highlighted:hover {
+    background-color: rgba(255,255,255,0.2);
+}
+#styleroller-activate-premium-key .factory-inner-wrap {
+    padding-left: 90px !important;
+    background: url("../img/offer-logo.png") 5px center no-repeat;
+}
+
