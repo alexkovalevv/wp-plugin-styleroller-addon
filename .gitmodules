@@ -1,31 +1,34 @@
 [submodule "libs/factory/bootstrap"]
 	path = libs/factory/bootstrap
-	url = ssh://git@bitbucket.org/OnePress/factory-bootstrap/
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-bootstrap/
 [submodule "libs/factory/core"]
 	path = libs/factory/core
-	url = ssh://git@bitbucket.org/OnePress/factory-core/
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-core/
 [submodule "libs/factory/forms"]
 	path = libs/factory/forms
-	url = ssh://git@bitbucket.org/OnePress/factory-forms/
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-forms/
 [submodule "flibs/actory/notices"]
 	path = libs/factory/notices
-	url = ssh://git@bitbucket.org/OnePress/factory-notices/
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-notices/
 [submodule "libs/factory/pages"]
 	path = libs/factory/pages
-	url = ssh://git@bitbucket.org/OnePress/factory-pages/
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-pages/
 [submodule "libs/onepress/compiler"]
 	path = libs/onepress/compiler
-	url = ssh://git@bitbucket.org/OnePress/onp-compiler/
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-compiler/
 [submodule "libs/onepress/licensing"]
 	path = libs/onepress/licensing
-	url = ssh://git@bitbucket.org/OnePress/onp-licensing/
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-licensing/
 [submodule "libs/onepress/updates"]
 	path = libs/onepress/updates
-	url = ssh://git@bitbucket.org/OnePress/onp-updates/
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-updates/
 [submodule "libs/factory/font-awesome"]
 	path = libs/factory/font-awesome
-	url = ssh://git@bitbucket.org/OnePress/factory-fontawesome
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-font-awesome
 [submodule "libs/onepress/api"]
 	path = libs/onepress/api
-	url = ssh://git@bitbucket.org/OnePress/onp-api.git
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-api
 
+[submodule "libs/factory/notices"]
+	path = libs/factory/notices
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-notices/
